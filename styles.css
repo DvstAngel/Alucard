@@ -1,3 +1,4 @@
 body{background-color: red;}
 body{background-image: linear-gradient(to right,black, rgb(126, 0, 0), red, rgb(126, 0, 0), black);} 
 body{text-align: center;}
+footer{text-align: right;}
